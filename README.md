@@ -2,8 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm <strong style="color:#f06292;">Hoor-ul-Ain Amir</strong></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=600&lines=Computer+Engineering+Student+|+ML+%7C+Cloud+%7C+IoT+%7C+Embedded;Building+Smart+Tech+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=1000&lines=Computer+Engineering+Student+%40+ITU+Lahore;Machine+Learning+%7C+Cloud+%7C+IoT+%7C+Embedded+Systems;Always+Learning+and+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
+
+
 
 <p align="center">
   <a href="mailto:hoorulainamir26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
