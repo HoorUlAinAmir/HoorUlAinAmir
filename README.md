@@ -1,123 +1,79 @@
-Absolutely! Here's a **much more polished, fancier, and visually appealing** version of your GitHub profile `README.md`, designed to impress visitors, recruiters, and collaborators alike 🚀
-
----
-
-````markdown
-<!-- HoorUlAinAmir - Fancy GitHub Profile README -->
+<!-- 🌸 Hoor-ul-Ain Amir - Fancy GitHub Profile README 🌸 -->
 
 <h1 align="center">✨ Hoor-ul-Ain Amir ✨</h1>
+<h3 align="center">💻 Computer Engineering | ML · Cloud · IoT · Embedded Systems | Lahore, Pakistan 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Computer+Engineering+Student;ML+%7C+AI+%7C+Cloud+%7C+IoT+Developer;Always+learning+and+building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hoor-ul-ain-amir-701006281/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hoorulainamir26@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HoorUlAinAmir">
-    <img src="https://img.shields.io/github/followers/HoorUlAinAmir?label=GitHub&style=social" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79A21&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Hoor-ul-Ain+Amir;Computer+Engineering+Student+at+ITU+Lahore;AWS+%7C+Machine+Learning+%7C+IoT+%7C+Full+Stack;Turning+Ideas+into+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
-
-🎓 **7th Semester Computer Engineering Student** at **ITU Lahore**  
-💡 Passionate about solving real-world problems through **AI**, **IoT**, **Embedded Systems**, and **Cloud Technologies**  
-🛠️ Actively building projects, learning new technologies, and contributing to tech communities like **IEEE**, **IET**, **WIE**, and **GDSC**
+<p align="center">
+  <a href="mailto:hoorulainamir26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hoor-ul-ain-amir-701006281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/HoorUlAinAmir"><img src="https://img.shields.io/github/followers/HoorUlAinAmir?label=Follow&style=flat-square&logo=github"/></a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 💫 About Me
+
+- 🎓 7th Semester **Computer Engineering** Student @ **ITU Lahore**
+- 🧠 Passionate about **AI/ML**, **Cloud**, **IoT**, and **Embedded Systems**
+- 🧩 Active member of **IEEE**, **IET**, **WIE**, and **GDSC**
+- 🏆 1st Prize Winner in Software Project Showcase (*Campus Eats*)
+- 🔍 Seeking **internship opportunities** where I can grow and contribute
+
+---
+
+## 💼 Notable Projects
+
+| 💡 Project | ⚙️ Tech Stack | 📌 Summary |
+|-----------|--------------|------------|
+| **🤟 Sign Language Interpreter** | Python · OpenCV · CNN-LSTM | Real-time gesture recognition using deep learning |
+| **🍱 Campus Eats (🥇 Winner)** | React.js · MySQL · JS | Student food ordering system w/ nutritional insights |
+| **📡 Proximity Alert System** | ESP32 · FreeRTOS · nRF24L01 | Detects nearby obstacles & wirelessly alerts |
+| **🤖 Line Following Robot** | Arduino · IR Sensors · Embedded C | Tracks and follows line paths autonomously |
+| **📊 Signal Analysis Toolkit** | MATLAB | DFT, filtering & transformation of signals |
+| **🧤 Rotatable Finger CAD** | SolidWorks | 3D mechanical finger with joint articulation |
+| **🍽 Restaurant Manager** | React.js · JS · MySQL | Web app for managing digital menu/orders |
+
+---
+
+## 🔧 Tech Stack
 
 ```yaml
-Languages:
-  - Python, C++, C, Assembly, Verilog, MATLAB, SQL
-Machine Learning & AI:
-  - TensorFlow, PyTorch, CNN, OpenCV, Scikit-Learn
-Cloud & DevOps:
-  - AWS (S3, Lambda, EC2), Docker, Kubernetes, Bash
-Embedded & IoT:
-  - Arduino, ESP32, FreeRTOS, nRF24L01
-Web Dev:
-  - React.js, JavaScript, MySQL, WordPress, CSS
-Tools:
-  - Git, GitHub, Jira, SolidWorks, MATLAB, VS Code
-````
+Languages: Python, C++, C, Assembly, Verilog, SQL, MATLAB
+ML/AI: TensorFlow, PyTorch, Scikit-Learn, OpenCV
+Web Dev: React.js, JavaScript, MySQL, CSS, WordPress
+Cloud/DevOps: AWS (S3, EC2, Lambda), Docker, Kubernetes, Git, Bash
+IoT/Embedded: Arduino, ESP32, FreeRTOS, IR/Ultrasonic Sensors
+Tools: GitHub, Jira, VS Code, SolidWorks, MATLAB
+📜 Certifications
+🏅 Certification	🏫 Provider	📅 Date	🔗 Credential
+AWS Cloud Foundations	AWS Academy	June 2025	View
+AWS ML Foundations	AWS Academy	June 2025	View
+WordPress Website Builder	Coursera	June 2025	View
 
----
+🌐 Let's Connect
+💼 LinkedIn
 
-## 🏆 Certifications
+📧 Email
 
-| Certificate                             | Issuer      | Date      | Credential                                                                                       |
-| --------------------------------------- | ----------- | --------- | ------------------------------------------------------------------------------------------------ |
-| **AWS Cloud Foundations**               | AWS Academy | June 2025 | [🔗 View](https://drive.google.com/file/d/1mPfCkxlJMeMs3p-pWIzzjtdAqTgMG2Vh/view?usp=drive_link) |
-| **AWS Machine Learning Foundations**    | AWS Academy | June 2025 | [🔗 View](https://drive.google.com/file/d/1oVuocgt067iswtocPSnKy9LQlxnz8Zwb/view?usp=drive_link) |
-| **Build a Free Website with WordPress** | Coursera    | June 2025 | [🔗 View](https://drive.google.com/file/d/1KRY4h4cW_CJJW1ltzzhSva6PtY0Xvs1-/view?usp=drive_link) |
+🌍 GitHub
 
----
+📍 Based in: Lahore, Pakistan
 
-## 👩‍💻 Featured Projects
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HoorUlAinAmir&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorUlAinAmir&layout=compact&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HoorUlAinAmir&theme=monokai&no-bg=true&margin-w=15&row=1" /> </p>
+🎯 Fun Facts
+🗣 Fluent in Urdu, proficient in English, learning German 🇩🇪
 
-| Project                              | Stack                    | Summary                                             |
-| ------------------------------------ | ------------------------ | --------------------------------------------------- |
-| 🧠 **Sign Language Interpreter**     | Python, CNN-LSTM, OpenCV | Real-time gesture detection for 23+ signs using ML  |
-| 🍽️ **Campus Eats** *(🏆 1st Prize)* | React, JS, MySQL         | Web platform for student-based meal ordering system |
-| 📡 **Proximity Detector (Wireless)** | ESP32, FreeRTOS, Sensors | Detect & broadcast object presence in real-time     |
-| 🤖 **Line Following Robot**          | Arduino, IR Sensors      | Embedded robot following predefined track logic     |
-| 🌿 **Environment Monitor**           | Microcontrollers, C      | IoT-based sensing and alert control system          |
-| 📊 **Signal Processing Toolkit**     | MATLAB                   | Analysis & visualization of discrete-time signals   |
-| ⚙️ **Rotatable Finger (3D)**         | SolidWorks               | Mechanical design of movable, articulated finger    |
-| 🍔 **Restaurant Management App**     | React, JS, MySQL         | Admin UI for digital restaurant management          |
+🎨 I love designing smart systems & real-world solutions
 
----
+🤝 Open to collaborations, hackathons, and tech meetups!
 
-## 📫 Contact Me
+✨ "Great things are not done by impulse, but by a series of small things brought together." — Vincent Van Gogh
 
-* 📍 **Location:** Lahore, Pakistan
-* ✉️ **Email:** [hoorulainamir26@gmail.com](mailto:hoorulainamir26@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/hoor-ul-ain-amir-701006281](https://linkedin.com/in/hoor-ul-ain-amir-701006281)
-* 💻 **GitHub:** [github.com/HoorUlAinAmir](https://github.com/HoorUlAinAmir)
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoorUlAinAmir&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorUlAinAmir&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoorUlAinAmir&theme=gruvbox&no-bg=true&no-frame=true" width="75%" />
-</p>
-
----
-
-## 🎯 Fun Facts
-
-* 🌍 Fluent in **Urdu**, proficient in **English**, and learning **German** 🇩🇪
-* 🎯 Interested in **Smart Systems**, **Tech for Good**, and **Women in STEM**
-* 🛠 Currently building: More smart embedded + AI integrated solutions!
-
----
-
-⭐ *Thanks for stopping by! Let’s connect, collaborate, and innovate together.*
-🧠 *“Innovation distinguishes between a leader and a follower.” – Steve Jobs*
-
-```
-
----
-
-### ✅ To Use:
-1. Save this content as `README.md`
-2. Push it into your GitHub profile repo: `HoorUlAinAmir/HoorUlAinAmir`
-3. Done! 🎉 GitHub will display it automatically on your profile
-
-Would you like a **custom banner image** for your profile header too? I can help generate one!
-```
+<p align="center"><b>💖 Thanks for stopping by! Let’s build something amazing together!</b></p> ```
