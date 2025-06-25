@@ -15,7 +15,7 @@
 
 ## 🧩 About Me
 
-```js
+
 const HoorulAin = {
   role: "Computer Engineering Student",
   university: "ITU Lahore",
@@ -42,6 +42,7 @@ Project	Tech Stack	Description
 🌐 Build a Free Website with WordPress (Coursera)
 
 📈 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HoorUlAinAmir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorUlAinAmir&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HoorUlAinAmir&theme=radical&no-frame=true&margin-w=15" /> </p>
 📊 WakaTime Activity (optional)
 text
