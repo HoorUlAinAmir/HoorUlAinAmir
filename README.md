@@ -20,9 +20,18 @@
 
 
 ## 🧩 About Me
+## 🧩 About Me
 
-```js const HoorulAin = { role: "Computer Engineering Student", university: "ITU Lahore", interests: ["Machine Learning", "Cloud Computing", "IoT", "Embedded Systems", "Full‑Stack Dev"], currently_learning: "German 🇩🇪", hobbies: ["Music", "DIY Electronics", "Robotics"], }; ``` 
+<div align="center">
 
+```js
+const HoorulAin = {
+  role: "Computer Engineering Student",
+  university: "ITU Lahore",
+  interests: ["Machine Learning", "Cloud Computing", "IoT", "Embedded Systems", "Full‑Stack Dev"],
+  currently_learning: "German 🇩🇪",
+  hobbies: ["Music", "DIY Electronics", "Robotics"],
+};
 
 
 ## 🛠️ Skills & Tools
