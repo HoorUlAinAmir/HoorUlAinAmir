@@ -21,17 +21,13 @@
 
 ## 🧩 About Me
 
-<div align="center">
+🎓 I’m a **Computer Engineering Student** at **ITU Lahore**, passionate about  
+💡 **Machine Learning**, **Cloud Computing**, **IoT**, **Embedded Systems**, and **Full-Stack Development**.
 
-```js
-const HoorulAin = {
-  role: "Computer Engineering Student",
-  university: "ITU Lahore",
-  interests: ["Machine Learning", "Cloud Computing", "IoT", "Embedded Systems", "Full‑Stack Dev"],
-  currently_learning: "German 🇩🇪",
-  hobbies: ["Music", "DIY Electronics", "Robotics"],
-};
-```
+🗣️ Currently learning **German 🇩🇪** and constantly exploring ways to build smart, human-centered technologies.
+
+🎧 In my free time, I enjoy **music**, building **DIY electronics**, and experimenting with **robotics**.
+
 
 
 ## 🛠️ Skills & Tools
