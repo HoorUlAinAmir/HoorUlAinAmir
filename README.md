@@ -43,11 +43,11 @@
 | Project                              | Tech Stack                        | Description                                                |
 | ------------------------------------ | --------------------------------- | ---------------------------------------------------------- |
 | 🤟 **Sign Language Interpreter**     | Python · TensorFlow · OpenCV      | Real-time hand gesture recognition using CNN-LSTM          |
-| 🍱 **Campus Eats (🏆 Winner)**       | React · MySQL · JS                | Student food ordering platform                             |
+| 🍱 **Campus Eats (🏆 Winner)**      | React · MySQL · JS . HTML . CSS   | Student food ordering platform                            |
 | 📡 **Proximity Alert System**        | ESP32 · FreeRTOS · nRF24L01       | Real-time object detection and wireless alert broadcasting |
 | 🤖 **Line Following Robot**          | Arduino · IR Sensors · Embedded C | Autonomous track-following robot                           |
 | 🌿 **Environment Monitoring System** | Embedded C · Sensors              | IoT-based monitoring and control system                    |
-| 📊 **Restaurant Management**         | React · JS · MySQL                | Admin-friendly UI for digital food services                |
+| 📊 **Restaurant Management**         | React · JS · MySQL . HTML . CSS   | Admin-friendly UI for digital food services                |
 
 
 
