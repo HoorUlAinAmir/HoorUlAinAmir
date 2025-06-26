@@ -20,7 +20,6 @@
 
 
 ## 🧩 About Me
-## 🧩 About Me
 
 <div align="center">
 
@@ -32,6 +31,7 @@ const HoorulAin = {
   currently_learning: "German 🇩🇪",
   hobbies: ["Music", "DIY Electronics", "Robotics"],
 };
+```
 
 
 ## 🛠️ Skills & Tools
