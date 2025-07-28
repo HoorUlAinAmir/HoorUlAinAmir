@@ -67,10 +67,10 @@
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HoorUlAinAmir&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HoorUlAinAmir&theme=react-dark&hide_border=true" />
 </p>
 
 ---
