@@ -25,24 +25,34 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
-```python
-class HoorUlAinAmir:
-    location     = "Lahore, Pakistan 🇵🇰"
-    university   = "Information Technology University (ITU) Lahore"
-    degree       = "BS Computer Engineering — 8th Semester"
-    role         = "Teaching Assistant · Cloud Computing & Formation @ ITU"
-
-    interests    = ["Edge AI", "Computer Vision", "Embedded Systems",
-                    "Cloud Computing", "Full-Stack Dev", "HCI Research"]
-
-    communities  = ["IEEE", "IET", "GDSC", "Women in Engineering (WIE)"]
-    languages    = ["Urdu (Native)", "English (Professional)", "German (Learning 🇩🇪)"]
-    fun_fact     = "I bridge machine intelligence & real-world hardware 🤖⚡"
-```
+<table>
+  <tr>
+    <td>🎓 <strong>Degree</strong></td>
+    <td>BS Computer Engineering · ITU Lahore · 8th Semester</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Role</strong></td>
+    <td>Teaching Assistant — Cloud Computing @ ITU</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Lahore, Pakistan · Open to Internships 🚀</td>
+  </tr>
+  <tr>
+    <td>🌍 <strong>Languages</strong></td>
+    <td>Urdu (Native) · English (Professional) · German 🇩🇪 (Learning)</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Interests</strong></td>
+    <td>Edge AI · Computer Vision · Embedded Systems · Cloud · HCI</td>
+  </tr>
+  <tr>
+    <td>🤝 <strong>Community</strong></td>
+    <td>IEEE · IET · GDSC · Women in Engineering (WIE)</td>
+  </tr>
+</table>
 
 ---
 
