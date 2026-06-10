@@ -183,11 +183,13 @@ Actively volunteered at **ITU Hackathons** and campus tech events — contributi
 
 ---
 
-## 🏆 GitHub Trophies
+## 🕐 Recent Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoorUlAinAmir&theme=radical&no-frame=true&margin-w=12&column=7"/>
+  <img src="https://img.shields.io/github/last-commit/HoorUlAinAmir/HoorUlAinAmir?style=for-the-badge&color=E879F9&label=Last+Push+to+Profile+Repo"/>
 </p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoorUlAinAmir&theme=tokyo-night&hide_border=true&area=true)](https://github.com/HoorUlAinAmir)
 
 ---
 
